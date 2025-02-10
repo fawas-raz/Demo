@@ -1,3 +1,3 @@
 # Demo
 
-Hello ,Thsi is my first commit 
+Hello ,Thsi is my first project 
